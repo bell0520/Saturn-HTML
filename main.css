@@ -54,7 +54,7 @@ nav a:hover, nav a:active{
 
 nav ul{
     border-top: 0.4em solid #666;
-    padding: 1em;
+    padding: 1em 0 1em 0;
     background-color: #444;
     width: 85%;
     list-style-type: none;
